@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daark", "Daark\Daark.csproj", "{6FB12761-0472-4D91-AACD-BA21175712A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB12761-0472-4D91-AACD-BA21175712A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB12761-0472-4D91-AACD-BA21175712A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB12761-0472-4D91-AACD-BA21175712A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB12761-0472-4D91-AACD-BA21175712A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1F9A82-FE88-4531-9786-317DC019FD1A}
+	EndGlobalSection
+EndGlobal
