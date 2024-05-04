@@ -47,7 +47,7 @@ https://github.com/JoeGitHubPro/Daark.git
   </ul>
 
   <h2>Acknowledgments</h2>
-  <p>C# , EF core , Linq , .NET core , Web API , SQL  .</p>
+  <p>C# , EF core , Linq , JWT , .NET core , Web API , SQL  .</p>
 
   <h2>Repository</h2>
   <p>Find the repository for this project on GitHub: <a href="https://github.com/JoeGitHubPro/Daark.git">Daark</a></p>
