@@ -259,3 +259,4 @@ E:\Windows\Underway\Project\Daark\Daark\obj\Debug\net7.0\refint\Daark.dll
 E:\Windows\Underway\Project\Daark\Daark\obj\Debug\net7.0\Daark.pdb
 E:\Windows\Underway\Project\Daark\Daark\obj\Debug\net7.0\Daark.genruntimeconfig.cache
 E:\Windows\Underway\Project\Daark\Daark\obj\Debug\net7.0\ref\Daark.dll
+E:\Windows\Underway\Project\Daark\Daark\obj\Debug\net7.0\Daark.sourcelink.json

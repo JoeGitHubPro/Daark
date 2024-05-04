@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Daark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b8ae75caa49914172ff09d5b1b315c1f94ea534")]
 [assembly: System.Reflection.AssemblyProductAttribute("Daark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Daark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
